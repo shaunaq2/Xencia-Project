@@ -63,5 +63,3 @@ Naive fixed-size chunking degraded retrieval quality on long-form documents. Swi
 - Delivered scalable LLM application architecture that became the foundation for subsequent client-facing AI features
 
 ---
-
-*Xencia Technology Solutions — AI/ML Intern, June 2025 – August 2025*
